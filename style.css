@@ -1,0 +1,221 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.secao-banner {
+
+    width: 100%;
+    padding: 120px 80px;
+    background-image: url(./img/banner-topo.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.secao-logo {
+
+    max-width: 250px;
+    color: #3c184e;
+}
+
+.secao-logo img {
+
+    width: 30px;
+    margin-right: 5px;
+}
+
+.one {
+
+    font-size: 35px;
+    color: #3c184e;
+    margin-bottom: 5px;
+}
+
+.two {
+
+    font-size: 14px;
+    text-align: center;
+    color: #3c184e;
+}
+.secao-text { 
+
+    max-width: 1024px;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 70px auto 0 auto;
+    color: #ffffffc4;
+    box-shadow: 0 8px 32px #1f26875e;
+
+}
+
+.secao-text h1 {
+
+    font-size: 60px;
+    font-weight: 800;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 40px 0;
+
+}
+
+.menu {
+
+    text-align: center;
+}
+
+.menu a {
+
+    width: 200px;
+    padding: 10px 25px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: #3c184e;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    text-transform: capitalize;
+    
+}
+
+.secao-text img {
+
+    width: 20px;
+}
+
+.services, .brands, .lacation {
+
+    width: 100%;
+    padding: 120px 80px;
+}
+
+.services h2, .brands h3, .location h3{
+
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+.services-list {
+
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    color: #3c184e;
+}
+
+.services-list li {
+
+    font-size: 20px;
+    margin-bottom: 20px;
+    list-style: square;
+}
+
+.service-title {
+
+    font-weight: 700;
+    font-style: italic;
+}
+.services-image {
+
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+
+}
+
+.services-image img {
+
+    box-shadow: 3px 6px 10px 6px #0000005c;
+    border-radius: 10px;
+}
+
+.about, .footer-about {
+
+    text-align: center;
+    padding: 120px 80px;
+    background-color: #3c184e;
+}
+
+.about p, .footer-about p {
+
+    max-width: 800px;
+    color: #fff;
+    font-size: 36px;
+    text-align: center;
+    margin: 0 auto 50px auto;
+}
+
+.highlight {
+
+    font-weight: 700;
+    font-style: italic;
+}
+
+.social-icon {
+
+    margin: 20px;
+}
+
+.social-icons img {
+
+    width: 50px;
+    height: 50px;
+}
+
+.brands-grid {
+
+    max-height: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.brands-grid img {
+
+    width: 148px;
+    height: 148px;
+    margin: 0 15px;
+    
+}
+
+.location {
+
+    text-align: center;
+}
+
+.location p {
+
+    font-size: 20px;
+    color: #3c184e;
+    margin-bottom: 45px;
+    text-align: center;
+
+}
+
+iframe {
+
+    width: 800px;
+    height: 450px;
+}
+
+.footer {
+
+    width: 100%;
+    padding: 10px 0;
+    background-color: #3c184e;
+}
+
+.footer p{
+
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+}
+
+.footer span {
+
+    font-weight: 700;
+}
